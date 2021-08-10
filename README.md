@@ -1,3 +1,3 @@
-# auth-proxy-test
-auth-proxy-test
+# ssl-auth-proxy
+ssl-auth-proxy
 first one

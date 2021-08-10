@@ -12,7 +12,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.ningbin</groupId>
-    <artifactId>auth-proxy-test</artifactId>
+    <artifactId>ssl-auth-proxy</artifactId>
     <version>1.0.0.RELEASE</version>
     <packaging>jar</packaging>
     
