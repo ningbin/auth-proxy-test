@@ -12,7 +12,7 @@ zuul:
       url: ${RESOURCE_SERVER}
 
 server:
-  port: ${PROXY_PORT}
+  port: 8443
   ssl:
     key-store: classpath:server-keystore.jks
     key-store-password: 123456
